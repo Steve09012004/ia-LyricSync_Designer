@@ -36,7 +36,7 @@ Um aplicativo web completo criado totalmente com diversas inteligencias artifici
 
 ## 📋 Pré-requisitos
 
-- Python 3.8+
+- Python 3.10+
 - FFmpeg
 - Dependências Python (ver requirements.txt)
 
