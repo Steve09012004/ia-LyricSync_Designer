@@ -1,0 +1,14 @@
+flask
+flask_cors
+openai-whisper==20231117
+torch
+librosa
+numpy
+moviepy==1.0.3
+pydub
+demucs
+click
+typer
+werkzeug
+ffmpeg-python
+tensorflow
