@@ -17,10 +17,6 @@ Um aplicativo web completo criado totalmente com diversas inteligencias artifici
 - **💾 Exportação SRT**: Salva legendas no formato padrão SRT
 - **🎭 Estilos Customizáveis**: Múltiplos estilos visuais (Clean, Neon, Shadow, Bold, Minimal)
 
-## 🚀 Demo
-
-![LyricSync Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=LyricSync+Designer+Demo)
-
 ## 🛠️ Tecnologias Utilizadas
 
 ### Backend (Python/Flask)
